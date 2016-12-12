@@ -15,3 +15,5 @@ class Student:
     def get_giraffe_gap(self):
 
         return (str(500-int(self.height)))
+
+        
